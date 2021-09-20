@@ -18,7 +18,7 @@ public class Test1 {
 	
 @Test
 public void test2() {	
-	Assert.assertFalse(e.validatetan() && e.validatenot() && e.validatecity() && e.validateprovince() && e.validatepi() && e.validateri());
+	Assert.assertTrue(e.validatetan() && e.validatenot() && e.validatecity() && e.validateprovince() && e.validatepi() && e.validateri());
 		System.out.println("test2");
 	}
 
