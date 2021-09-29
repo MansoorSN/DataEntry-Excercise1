@@ -1,0 +1,5 @@
+2021-09-29 07:35:09.401 [AWT-EventQueue-0] INFO  controller.ErrorValidator - the city field is empty
+2021-09-29 07:39:07.219 [AWT-EventQueue-0] INFO  controller.ErrorValidator - the field entered =is empty
+2021-09-29 07:47:04.647 [main] INFO  controller.MainFrame3 - Application GUI starts
+2021-09-29 07:47:30.881 [AWT-EventQueue-0] INFO  controller.MainFrame3 - manual button is selected
+2021-09-29 07:47:30.883 [AWT-EventQueue-0] INFO  controller.MainFrame3 - data entered in manual mode is correct and is added to the records.

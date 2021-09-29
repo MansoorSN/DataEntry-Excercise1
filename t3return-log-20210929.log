@@ -1,0 +1,7 @@
+2021-09-29 07:52:55.483 [main] INFO  controller.App1 - T3 Returns application starts
+2021-09-29 07:52:55.581 [main] INFO  controller.MainFrame3 - Application GUI starts
+2021-09-29 07:52:55.709 [main] INFO  controller.App1 - T3 Returns application ends
+2021-09-29 07:53:12.273 [AWT-EventQueue-0] INFO  controller.MainFrame3 - manual button is selected
+2021-09-29 07:53:12.274 [AWT-EventQueue-0] INFO  controller.MainFrame3 - data entered in manual mode is correct and is added to the records.
+2021-09-29 08:13:28.963 [main] INFO  controller.MainFrame3 - Application GUI starts
+2021-09-29 08:13:29.507 [main] INFO  controller.ErrorValidator - the entered string is a number but nrgative-9999

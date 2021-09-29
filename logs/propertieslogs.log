@@ -1,0 +1,5 @@
+[DEBUG] 2021-09-29 07:04:48.299 [main] Log4jtester - We've just greeted the user frm debug!
+[INFO ] 2021-09-29 07:04:48.302 [main] Log4jtester - We've just greeted the user frm info!
+[WARN ] 2021-09-29 07:04:48.302 [main] Log4jtester - We've just greeted the user! frm warn
+[ERROR] 2021-09-29 07:04:48.302 [main] Log4jtester - We've just greeted the user frm error!
+[FATAL] 2021-09-29 07:04:48.302 [main] Log4jtester - We've just greeted the user! frm fatal
